@@ -1,0 +1,16 @@
+title: "[CyC]"
+email: wp.tvshows@gmail.com
+description: >-
+  Cryptic's Anime Projects
+github_username: xCryptic
+paginate: 5
+
+# Build settings
+timezone: America/New_York
+markdown: kramdown
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+sass:
+  sass_dir: _scss
